@@ -33,4 +33,12 @@
         android:text="@string/salvar"
         android:textColor="@color/white" />
 
+    <ProgressBar
+        android:layout_marginTop="16dp"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/formulario_progressBar"
+        android:visibility="gone"/>
+
 </LinearLayout>

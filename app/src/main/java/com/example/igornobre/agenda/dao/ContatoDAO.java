@@ -38,6 +38,7 @@ public class ContatoDAO extends SQLiteOpenHelper {
         long inserir = db.insert("Contato", null, dados);
 
         Log.i("inserir: ", inserir + "");
+
     }
 
     private ContentValues pegaDadosDoContato(Contato contato) {

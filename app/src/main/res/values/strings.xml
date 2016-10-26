@@ -5,4 +5,6 @@
     <string name="nome">nome</string>
     <string name="telefone">telefone</string>
     <string name="salvar">salvar</string>
+    <string name="digite_nome">Digite o Nome</string>
+    <string name="digite_telefone">Digite o Telefone</string>
 </resources>
